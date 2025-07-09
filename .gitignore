@@ -1,0 +1,8 @@
+__pycache__/
+env_isaacsim/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.egg-info/
+.DS_Store
